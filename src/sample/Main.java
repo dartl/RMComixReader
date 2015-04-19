@@ -71,16 +71,13 @@ public class Main extends Application {
             Marshaller m = context.createMarshaller();
             m.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
 
-            // Wrapping our person data.
             ComicsWrapper wrapper = new ComicsWrapper();
             wrapper.setComicsMap(Comicses);
 
-            // Marshalling and saving XML to the file.
             m.marshal(wrapper, file);
 
-            // Save the file path to the registry.
             setComicsesFilePath(file);
-        } catch (Exception e) { // catches ANY exception
+        } catch (Exception e) {
         }
     }
 
