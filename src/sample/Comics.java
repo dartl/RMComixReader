@@ -2,6 +2,7 @@ package sample;
 
 /**
  * Created 19.04.2015.
+ * Класс, описывающий объект Комикс.
  */
 public class Comics {
     private String name; /* Название комикса */
@@ -74,6 +75,17 @@ public class Comics {
     }
 
     public void setUrl(String url) {
+        this.url = url;
+    }
+
+    public Comics(String url_img, String name, String author, int year, String publishingHouse, String genre, String language, String url) {
+        this.url_img = url_img;
+        this.name = name;
+        this.author = author;
+        this.year = year;
+        this.publishingHouse = publishingHouse;
+        this.genre = genre;
+        this.language = language;
         this.url = url;
     }
 }
