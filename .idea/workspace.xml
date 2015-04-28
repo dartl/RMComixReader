@@ -83,11 +83,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Library.fxml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Comics.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/Comics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.71428573" vertical-offset="1031" max-vertical-offset="1666">
+              <caret line="121" column="57" selection-start-line="121" selection-start-column="57" selection-end-line="121" selection-end-column="57" />
+              <folding>
+                <element signature="method#Comics#0;class#Comics#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Library.fxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/Library.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.6161879" vertical-offset="976" max-vertical-offset="1581">
-              <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+            <state vertical-scroll-proportion="-6.233333" vertical-offset="0" max-vertical-offset="1615">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -114,6 +126,7 @@
         <option value="$PROJECT_DIR$/src/sample/ComicsWrapper.java" />
         <option value="$PROJECT_DIR$/src/sample/Comics.java" />
         <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/sample/Library.fxml" />
       </list>
     </option>
   </component>
@@ -523,12 +536,12 @@
       <workItem from="1429446032217" duration="3963000" />
       <workItem from="1429948017251" duration="152000" />
       <workItem from="1430246732652" duration="132000" />
-      <workItem from="1430254733057" duration="187000" />
+      <workItem from="1430254733057" duration="1052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31256000" />
+    <option name="totallyTimeSpent" value="32121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -645,8 +658,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="556" max-vertical-offset="1700">
           <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
           <folding>
-            <element signature="e#1622#1623#0" expanded="true" />
-            <element signature="e#1652#1653#0" expanded="true" />
             <element signature="method#Comics#0;class#Comics#0" expanded="false" />
           </folding>
         </state>
@@ -687,8 +698,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="556" max-vertical-offset="1700">
           <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
           <folding>
-            <element signature="e#1622#1623#0" expanded="true" />
-            <element signature="e#1652#1653#0" expanded="true" />
             <element signature="method#Comics#0;class#Comics#0" expanded="false" />
           </folding>
         </state>
@@ -710,8 +719,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="556" max-vertical-offset="1700">
           <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
           <folding>
-            <element signature="e#1622#1623#0" expanded="true" />
-            <element signature="e#1652#1653#0" expanded="true" />
             <element signature="method#Comics#0;class#Comics#0" expanded="false" />
           </folding>
         </state>
@@ -733,8 +740,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1622#1623#0" expanded="true" />
-            <element signature="e#1652#1653#0" expanded="true" />
             <element signature="method#Comics#0;class#Comics#0" expanded="false" />
           </folding>
         </state>
@@ -928,18 +933,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Comics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71428573" vertical-offset="1065" max-vertical-offset="1700">
-          <caret line="121" column="57" selection-start-line="121" selection-start-column="57" selection-end-line="121" selection-end-column="57" />
-          <folding>
-            <element signature="e#1622#1623#0" expanded="true" />
-            <element signature="e#1652#1653#0" expanded="true" />
-            <element signature="method#Comics#0;class#Comics#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="442">
@@ -953,13 +946,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/Library.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6161879" vertical-offset="976" max-vertical-offset="1581">
-          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+        <state vertical-scroll-proportion="-6.233333" vertical-offset="0" max-vertical-offset="1615">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding />
         </state>
       </provider>
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Comics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71428573" vertical-offset="1065" max-vertical-offset="1700">
+          <caret line="121" column="57" selection-start-line="121" selection-start-column="57" selection-end-line="121" selection-end-column="57" />
+          <folding>
+            <element signature="method#Comics#0;class#Comics#0" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
